@@ -1,4 +1,4 @@
-<h1 align="left">🎮👨‍💻 QueritoDEV 👨‍💻🎮</h1>
+<h1 align="right">🎮👨‍💻 QueritoDEV 👨‍💻🎮</h1>
 <h3 align="center">🎮 Someone learning game programming without Game Engines 😀</h3>
 
 - 🌱 I’m currently learning **C#, C++, Raylib and GLSL**
